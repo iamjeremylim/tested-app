@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was done so that I can learn about RSpec, which is a behavior-driven development (BDD) testing framework. Instead of saying, "This unit test is for this functionality," a BDD approach might be to say, "this unit test is for this business value." RSpec allows you to quickly create Ruby specs for testing various logic in your application. Using Rails 6 RSpec, I start by creating an app and adding a basic scaffold and Devise users. Then I set about testing some of the functionalities.
 
-Things you may want to cover:
+What I've learnt From This Project?
 
-* Ruby version
+* Using Rails 6 RSpec To Test The Application
 
-* System dependencies
+* Testing The Models
 
-* Configuration
+* Testing The Views
 
-* Database creation
+* Testing The Controller Actions
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Testing Helper Methods With RSpec
